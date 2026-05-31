@@ -88,11 +88,13 @@ These controls allow the circuit to be stepped through manually while observing 
 
 ### Shift Register / PISO Design
 
-![PISO Register Circuit](images/piso-register.png)
+<img width="1212" height="663" alt="Screenshot 2026-05-28 at 2 23 25 PM" src="https://github.com/user-attachments/assets/2cfc0bf8-473c-4c3c-b15a-1e048f88a584" />
+
 
 ### Booth's Algorithm Circuit
 
-![Booth Algorithm Circuit](images/booth-circuit.png)
+<img width="675" height="715" alt="Screenshot 2026-05-28 at 2 23 47 PM" src="https://github.com/user-attachments/assets/915b258d-7ab4-4182-89d8-dfc9ffba0361" />
+
 
 ## Files
 
